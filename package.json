@@ -2,11 +2,11 @@
   "name": "nestjs-auth-app",
   "version": "1.0.0",
   "description": "NestJS Role-Based Auth App",
-  "scripts": {
-    "start": "nest start",
-    "start:dev": "nest start --watch",
-    "build": "nest build"
-  },
+"scripts": {
+  "start": "npx nest start",
+  "start:dev": "npx nest start --watch",
+  "build": "npx nest build"
+},
   "dependencies": {
     "@nestjs/common": "^10.0.0",
     "@nestjs/config": "^3.3.0",
